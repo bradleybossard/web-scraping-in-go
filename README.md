@@ -2,4 +2,4 @@
 
 ### Links
 
-[Web Scraping with Go | DevDungeon](https://www.devdungeon.com/content/web-scraping-go)
+[Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go)
